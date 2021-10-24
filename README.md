@@ -27,9 +27,10 @@ https://public.tableau.com/views/Citibike-project-storyboard/Story1?:language=en
 			b. Grove St Path is decreasing between # of trips for Sept 2020 vs Sept 2019
 
 ## Maps - Analysis: 
-	* I also created 2 map visualizations; one for the top origin stations and one for the top destination stations in Sept 2020
+	* I also created 2 map visualizations; one for the origin stations and one for the destination stations in Sept 2020. I color coded the top 10 for each map.
 	* This illustrates that the same stations are listed for the most popular start and destination locations, 
 	so there's a strong correlation between most popular start and end locations for Citibike trips.
+
 	
 
 		
