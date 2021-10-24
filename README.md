@@ -12,7 +12,7 @@
 	* Visualizations:
 		1. Total trips by origin station in Sept 2018, Sept 2019, and Sept 2020
 		2. Total trips for two origin stations (Grove St. Path and Newport Path) in Sept 2018, Sept 2019, and Sept 2020
-	*Analysis:
+	* Analysis:
 		* The first bar chart shows that there are many different start stations for trips taken, 
 		and that there is generally the same trend in each time period for most popular and least popular station.
 		For example, Grove St. Path is the most popular station for each time period and 
